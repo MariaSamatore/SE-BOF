@@ -5,86 +5,55 @@
     "questions":[
         {
             "questiontype": "radiogrid",
-            "instructions": " Please answer the following questions about this game by providing a number between 1 and 7, where 1 means 'strongly disagree' and 7 means 'strongly agree'. ",
+            "instructions": "Please answer the following questions by selecting a number between 1 and 4, where 1 means 'Not at all true' and 4 means 'Exactly true'. ",
             "id": "radio_1",
             "shuffle": "true",
             "labels": [
-                "Strongly disagree",
+                "Not at all true",
                 "",
                 "",
-                "",
-                "",
-                "",
-                "Strongly agree"
+                "Exactly true"
             ],
             "q_text": [
                 {
                     "id": "q_1",
-                    "text": " I expect to become proficient in playing this game. "
+                    "text": " I can always manage to solve difficult problems in Space Oddity if I try hard enough. "
                 },
                 {
                     "id": "q_2",
-                    "text": " I feel comfortable playing this game. "
+                    "text": " In Space Oddity, if someone opposes me, I can find the means and ways to get what I want. "
                 },
                 {
                     "id": "q_3",
-                    "text": " I am skilled at playing this game. "
+                    "text": " It is easy for me to stick to my aims and accomplish my goals in Space Oddity. "
                 },
                 {
                     "id": "q_4",
-                    "text": " I know how to do what I want to do with this game. "
+                    "text": " I am confident that I could deal efficiently with unexpected events in Space Oddity. "
                 },
                 {
                     "id": "q_5",
-                    "text": " I know more about the game than most other people who play this game. "
+                    "text": " Thanks to my resourcefulness, I know how to handle unforeseen situations in Space Oddity. "
                 },
                 {
                     "id": "q_6",
-                    "text": " I can play this game if I can call someone for help if I get stuck. "
+                    "text": " I can solve most problems in Space Oddity if I invest the necessary effort.  "
                 },
                 {
                     "id": "q_7",
-                    "text": " I can play this game if I have the manual for reference. "
+                    "text": " I can remain calm when facing difficulties in Space Oddity because I can rely on my coping abilities. "
                 },
                 {
                     "id": "q_8",
-                    "text": " I can play this game if I have a lot of time to practice. "
+                    "text": " When I am confronted with a problem in Space Oddity, I can usually find several solutions. "
                 },
                 {
                     "id": "q_9",
-                    "text": " I can play this game if I have the built-in help assistance. "
+                    "text": " If I am in trouble in Space Oddity, I can usually think of a solution. "
                 },
                 {
                     "id": "q_10",
-                    "text": " I can play this game if I have never played a similar game like it before. "
-                },
-                {
-                    "id": "q_11",
-                    "text": " I can play this game if I have never played it before. "
-                },
-                {
-                    "id": "q_12",
-                    "text": " I can play this game if I have not seen anyone play it before. "
-                },
-                {
-                    "id": "q_13",
-                    "text": " I can play this game if I have played a similar game like this one before. "
-                },
-                {
-                    "id": "q_14",
-                    "text": " I can play this game if I have seen someone else play it before I play. "
-                },
-                {
-                    "id": "q_15",
-                    "text": " I can play this game if someone else has helped me to get started. "
-                },
-                {
-                    "id": "q_16",
-                    "text": " I can play this game if someone showed me how to play it first. "
-                },
-                {
-                    "id": "q_17",
-                    "text": " I can play this game if there was no one to help me to show me what to do. "
+                    "text": " I can usually handle whatever comes my way in a video game. "
                 }
             ]
         }
